@@ -1,6 +1,6 @@
 # Churn-Prediction-Using-Variational-Autoencoder
 
-### The project aims to implement VAE to a telecom churn data set that can be downloaded from IBM Sample Data Sets
+The project aims to implement VAE to a telecom churn data set that can be downloaded from IBM Sample Data Sets.
 
 Url for IBM Data Sets - https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
 
