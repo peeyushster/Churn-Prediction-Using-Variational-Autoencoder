@@ -4,8 +4,6 @@ The project aims to implement VAE to a telecom churn data set that can be downlo
 
 Url for IBM Data Sets - https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/
 
-A bit of background on CNNs & VAE 
-
 ## Convolutional neural networks (CNNs)
 
 Convolutional neural networks (CNNs) are a specific type of neural network that have seen exceptional success in image recognition over the past few years. CNNs are unique because they make use of convolutional layers, which are neural network layers that use convolutions. Convolution is an operation in which a filter function is applied to a signal function to produce a third related function.
